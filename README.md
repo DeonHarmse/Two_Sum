@@ -1,5 +1,5 @@
 # Two_Sum
- Answer to Two Sum on Leetcode, and explaining hashing
+
  This program is code to an answer in Leetcode, called Two Sum.
  link: https://leetcode.com/problems/two-sum/
  Problem from leetcode:
